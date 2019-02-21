@@ -1,7 +1,7 @@
 # GraphCut
 
 本项目参考了https://github.com/NathanZabriskie/GraphCut  
-GUI界面将在后续进行优化实现
+GUI界面将在后续时间进行实现
 
 ## 运行环境
 python3.6  
