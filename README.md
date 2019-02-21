@@ -1,5 +1,7 @@
 # GraphCut
 
+本项目参考了https://github.com/NathanZabriskie/GraphCut  
+
 ## 运行环境
 python3.6  
 所需库函数：numpy,opencv-python,PyMaxflow     
